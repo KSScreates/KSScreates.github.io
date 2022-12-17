@@ -36,7 +36,10 @@ en: &DEFAULT_EN
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
-
+    
+  timeline:
+    end:
+    
   about:
     title: "About Us"
     text: "our story"
