@@ -37,10 +37,10 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
     
-  test:
+  timeline:
     title: "Test"
     text: "test-Test"
-    section: test
+    section: timeline
     
   about:
     title: "About Us"
